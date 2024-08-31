@@ -13,7 +13,7 @@ from threading import Thread
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '6373505916:AAGgK3zNEDYuG-X6O3QMVmzEMxf8gz0e-f8'
+TOKEN = '7341837150:AAFN19J86SJjDd6Hk9fgaaOXmJ9bS7tvsgw'
 MONGO_URI = 'mongodb+srv://harshutest:harshunoob@ddosbot.dvrmu.mongodb.net/?retryWrites=true&w=majority&appName=ddosbot'
 FORWARD_CHANNEL_ID = -1002200678079
 CHANNEL_ID = -1002200678079
